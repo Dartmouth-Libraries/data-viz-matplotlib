@@ -11,3 +11,27 @@ To get the most out of this session, you should have some basic experience with 
 
 
 **Materials are currently in preparation**
+
+
+### Issues and feedback
+
+If you run into any trouble working with these materials, have some questions about the content, or want to give general feedback, feel free to go through one of these channels to get in touch with us:
+
+- [Open a new issue](https://git.dartmouth.edu/lib-digital-strategies/RDS/workshops/computational-tools/data-viz-matplotlib/-/issues)
+- [Send an email](mailto:researchdatahelp@groups.dartmouth.edu)
+- [Book an appointment](https://libcal.dartmouth.edu/appointments?lid=3991&g=12688) (Dartmouth-members only)
+
+### Licensing
+
+<table>
+<tbody>
+  <tr>
+    <td style="padding:0px;border-width:0px;vertical-align:center">
+    Instructional materials created by Simon Stone for Dartmouth College Library under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons CC BY-NC 4.0 License</a>.
+    </td>
+    <td style="padding:0 0 0 1em;border-width:0px;vertical-align:center"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></td>
+  </tr>
+</tbody>
+</table>
+
+Except where otherwise noted, the example programs are made available under the OSI-approved MIT license.
