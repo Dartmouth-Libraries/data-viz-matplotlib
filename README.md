@@ -7,11 +7,27 @@ Matplotlib is a Python library for creating static, animated, and interactive vi
 
 Join us for this session to learn about the anatomy of a matplotlib chart, how to find and implement the right chart for your data, and how to group multiple charts together in a single visualization.
 
-To get the most out of this session, you should have some basic experience with Python. The contents are designed to be very beginner-friendly, however.
 
 
-**Materials are currently in preparation**
 
+### Requirements
+
+To get the most out of this session, you should have some basic experience with Python. The contents are designed to be very beginner-friendly, however. Consider working through [Intro to Python](https://git.dartmouth.edu/lib-digital-strategies/RDS/workshops/computational-tools/intro-to-python) prior to this workshop.
+
+The requirements for the Python code can be installed using the following command:
+
+```
+pip install -r requirements.txt
+```
+
+### Usage
+
+The repo has the following structure:
+
+- `ppt`: The slide deck used in the introduction
+- `img`: Holds images used in the materials
+- `notebooks`: Notebooks illustrating the main concepts discussed in this workshop
+  - `solutions`: Subdirectory containing example solutions to the exercises
 
 ### Issues and feedback
 
